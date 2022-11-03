@@ -1238,8 +1238,10 @@ h6 {
 .hero h2 span {
   position: relative;
   z-index: 1;
+  font-weight: 400;
   padding: 0 5px;
   display: inline-block;
+  font-family: "Pacifico", cursive;
 }
 
 .hero h2 span:before {
